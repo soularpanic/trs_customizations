@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+  <modules>
+    <Soularpanic_TheRetroFitSourceCustom>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Soularpanic_TheRetroFitSourceCustom>
+  </modules>
+</config>
